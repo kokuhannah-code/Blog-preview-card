@@ -18,6 +18,6 @@ Through this project, I improved my understanding of:
   - assets/(images and other resources)
   ## purpose
   The goal of this project is to practice frontend development skills and build consistency by completing challenges from frontend mentor
-  ##
+  ## Author
   - beginner frontend developer
 
