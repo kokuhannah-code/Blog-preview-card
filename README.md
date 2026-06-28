@@ -4,8 +4,8 @@ This is my solution to a frontend mentor challenge. I built this project to impr
 ## overview
 This project is part of my learning journey as a beginner frontend developer. it focuses on building responsive and structured web layouts using HTML and CSS.
 ## built with
--HTML5
--CSS3
+- HTML5
+- CSS3
 ## What i learned 
 Through this project, I improved my understanding of:
 - structuring a webpage using semantic HTML
@@ -13,11 +13,11 @@ Through this project, I improved my understanding of:
 - working with images and assests
 - improving design accuracy from a given layout
   ## project structure
-  -index.html
-  -style.css
-  -assets/(images and other resources)
+  - index.html
+  - style.css
+  - assets/(images and other resources)
   ## purpose
   The goal of this project is to practice frontend development skills and build consistency by completing challenges from frontend mentor
   ##
-  -beginner frontend developer
+  - beginner frontend developer
 
